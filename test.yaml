@@ -1,3 +1,4 @@
 config:
   - user: test
   - password: SECRET_PASSWORD
+  - data: TESTER
