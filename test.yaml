@@ -2,3 +2,4 @@ config:
   - user: test
   - password: SECRET_PASSWORD
   - env: PRESTABLE
+  - khiz: true
