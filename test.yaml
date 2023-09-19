@@ -1,4 +1,4 @@
 config:
   - user: test
   - password: SECRET_PASSWORD
-  - env: DEVELOPMENT
+  - env: PRESTABLE
